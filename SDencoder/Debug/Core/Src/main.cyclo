@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:9:read_encoder_value	1
+../Core/Src/main.c:93:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:101:5:_write	1
+../Core/Src/main.c:113:5:main	2
+../Core/Src/main.c:173:6:SystemClock_Config	3
+../Core/Src/main.c:214:13:MX_SPI1_Init	2
+../Core/Src/main.c:254:13:MX_TIM2_Init	3
+../Core/Src/main.c:303:13:MX_TIM16_Init	2
+../Core/Src/main.c:335:13:MX_USART1_UART_Init	5
+../Core/Src/main.c:383:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:431:13:MX_GPIO_Init	1
+../Core/Src/main.c:452:6:Error_Handler	1
